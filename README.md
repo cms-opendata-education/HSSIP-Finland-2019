@@ -37,5 +37,5 @@ Circles and colors -Jenny
 By opening this file, you can find a sinwave that changes its color from red to purple. Here I have also plotted a basic circle and two ellipses.
 
 Snowman and slider -Jenny
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Snowman%20with%20slider.ipynb)
 I wanted to test something new and created a snowman with a slider that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
