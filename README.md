@@ -19,6 +19,9 @@ Väestöennuste.ipynd -Taneli
 W- bosoni datassa.ipynb - Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-%20bosoni%20datassa%20(1).ipynb)
 
+W-boson.ipynd - Eero
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
+
 W-boson.ipynb - Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
 
