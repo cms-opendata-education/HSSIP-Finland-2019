@@ -1,7 +1,9 @@
 # HSSIP-Finland-2019
 Open data exercises from CERN High School Student Internship program
 
-These notebooks were produced during our intership programme in CERN. We started by going through teaching material in Jupyter notebook and gradually learnt how to use Python by doing different exercises. Next phase was to create own data and tested how we could produce a nice histogram about pendulum movement. We also searched open data from online and created histograms about different materials. Now we were ready to face new challenges and wanted to find the W-boson from Cern's data. Each one of us created a histogram with different variables and we combined them in the end. 
+These notebooks were produced during our 2 week intership programme in CERN. We started by going through the teaching materials with Jupyter notebook thus learning the basics of Python with different excercises. After getting used to Python as a programming language, we proceeded to create our own data. We produced the data with Phyphox and used Python to create histograms of pendulum movement. In addition, we also searched for open data online and used the data we found to produce different graphs (bar charts, xy-scatters etc.). In this phase we focused more on the visual side of the charts to make them easier to understand.
+
+After facing a variety of challenges with the open data we found online, we were ready to analyze actual data from the CMS. We wanted to use CERN's open data to find the W-boson. Each of us created their own histograms with different variables and conditions. We then combined our work to create the final outcome.
 
 Avoimesta datasta histogrammit - Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Avoimesta%20datasta%20histogrammit.ipynb)
