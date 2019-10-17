@@ -14,10 +14,10 @@ Piirto2.ipynd
 Väestöennuste.ipynd
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=V%C3%A4est%C3%B6ennuste.ipynb)
 
-W- bosoni datassa (1).ipynb
+W- bosoni datassa (Jenny).ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-%20bosoni%20datassa%20(1).ipynb)
 
-W-boson.ipynb
+W-boson.ipynb - Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
 
 Ympyrä.ipynb
@@ -25,4 +25,4 @@ Ympyrä.ipynb
 
 Lumiukko ja liutin.ipynd
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
-We wanted to test something new and created a snowman with a slidet that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
+We wanted to test something new and created a snowman with a slider that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
