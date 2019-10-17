@@ -6,3 +6,6 @@ Open data_tieliikenneonnettomuudet.ipynb
 
 Piirto.ipynd
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Piirto.ipynb)
+
+Väestöennuste
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=V%C3%A4est%C3%B6ennuste.ipynb)
