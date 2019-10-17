@@ -25,9 +25,9 @@ W-boson.ipynd - Eero
 W-boson.ipynb - Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
 
-Ympyrä.ipynb -Jenny
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4.ipynb) By opening this file you can find a sinwave that changes its color from red to purple. Here I have also plotted a basic circle and two ellipses.
+Ympyrä + värit -Jenny
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4t%20%2B%20v%C3%A4rit.ipynb)
+By opening this file you can find a sinwave that changes its color from red to purple. Here I have also plotted a basic circle and two ellipses.
 
 Lumiukko ja liutin.ipynd -Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
