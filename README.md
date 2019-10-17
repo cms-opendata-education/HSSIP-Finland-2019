@@ -1,7 +1,7 @@
 # HSSIP-Finland-2019
 Open data exercises from CERN High School Student Internship program
 
-These notebooks were produced during our intership programme in Cern. We started by going through teaching material in Jupyter notebook and gradually learnt how to use Python by doing different exercises. Next phase was to create own data and tested how we could produce a nice histogram about pendulum movement. We also searched open data from online and created histograms about different materials. Now we were ready to face new challenges and wanted to find the W-boson from Cern's data. Each one of us created a histogram with different variables and combined them in the end. 
+These notebooks were produced during our intership programme in CERN. We started by going through teaching material in Jupyter notebook and gradually learnt how to use Python by doing different exercises. Next phase was to create own data and tested how we could produce a nice histogram about pendulum movement. We also searched open data from online and created histograms about different materials. Now we were ready to face new challenges and wanted to find the W-boson from Cern's data. Each one of us created a histogram with different variables and combined them in the end. 
 
 Kuvaaja vauvojen etunimien yleisyydestä.ipynb - Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Kuvaaja%20vauvojen%20etunimien%20yleisyydest%C3%A4%20(1).ipynb)
