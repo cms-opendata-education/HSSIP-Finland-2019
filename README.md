@@ -1,28 +1,30 @@
 # HSSIP-Finland-2019
 Open data exercises from CERN High School Student Internship program
 
-Kuvaaja vauvojen etunimien yleisyydestä (1).ipynb
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Kuvaaja%20vauvojen%20etunimien%20yleisyydest%C3%A4%20(1).ipynb)
-Here we have presented how popular certains names have been in USA during 2019 in form of a histogram.
+These notebooks were produced during our intership programme in Cern. We started by going through teaching material in Jupyter notebook and gradually learnt how to use Python by doing different exercises. Next phase was to create own data and tested how we could produce a nice histogram about pendulum movement. We also searched open data from online and created histograms about different materials. Now we were ready to face new challenges and wanted to find the W-boson from Cern's data. Each one of us created a histogram with different variables and combined them in the end. 
 
-Open data_tieliikenneonnettomuudet.ipynb
+Kuvaaja vauvojen etunimien yleisyydestä.ipynb - Jenny
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Kuvaaja%20vauvojen%20etunimien%20yleisyydest%C3%A4%20(1).ipynb)
+Here I have presented how popular certains names have been in USA during 2019 in form of a histogram.
+
+Open data_tieliikenneonnettomuudet.ipynb -Eero
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Open%20data_tieliikenneonnettomuudet.ipynb)
 
-Piirto2.ipynd
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Piirto2.ipynb)
+Piirto.ipynd - Eero
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Piirto2.ipynb) 
 
-Väestöennuste.ipynd
+Väestöennuste.ipynd -Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=V%C3%A4est%C3%B6ennuste.ipynb)
 
-W- bosoni datassa (Jenny).ipynb
+W- bosoni datassa.ipynb - Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-%20bosoni%20datassa%20(1).ipynb)
 
 W-boson.ipynb - Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
 
-Ympyrä.ipynb
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4.ipynb)
+Ympyrä.ipynb -Jenny
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4.ipynb) By opening this file you can find a sinwave that changes its color from red to purple. Here I have also plotted a basic circle and two ellipses.
 
-Lumiukko ja liutin.ipynd
+Lumiukko ja liutin.ipynd -Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
-We wanted to test something new and created a snowman with a slider that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
+I wanted to test something new and created a snowman with a slider that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
