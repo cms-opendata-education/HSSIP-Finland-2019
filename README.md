@@ -27,3 +27,6 @@ W-boson.ipynb
 
 Ympyrä.ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4.ipynb)
+
+Lumiukko ja liutin.ipynd
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
