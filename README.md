@@ -10,16 +10,16 @@ Here I have presented how popular certains names have been in USA during 2019 an
 Open data_tieliikenneonnettomuudet.ipynb -Eero
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Open%20data_tieliikenneonnettomuudet.ipynb)
 
-Piirto.ipynd - Eero
+Piirto - Eero
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Piirto2.ipynb) 
 
-Väestöennuste.ipynd -Taneli
+Väestöennuste -Taneli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=V%C3%A4est%C3%B6ennuste.ipynb)
 
-W- bosoni datassa.ipynb - Jenny
+W- bosoni datassa - Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-%20bosoni%20datassa%20(1).ipynb)
 
-W-boson.ipynd - Eero
+W-boson - Eero
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=W-boson.ipynb)
 
 W-boson.ipynb - Taneli
@@ -29,6 +29,6 @@ Ympyrä + värit -Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Ympyr%C3%A4t%20%2B%20v%C3%A4rit.ipynb)
 By opening this file, you can find a sinwave that changes its color from red to purple. Here I have also plotted a basic circle and two ellipses.
 
-Lumiukko ja liutin.ipynd -Jenny
+Lumiukko ja liutin -Jenny
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=lumikko%20ja%20liutin.ipynb)
 I wanted to test something new and created a snowman with a slider that changes the shape of its mouth. You can test it and change its mood or make it wave its hands.
