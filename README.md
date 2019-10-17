@@ -4,9 +4,6 @@ Open data exercises from CERN High School Student Internship program
 Kuvaaja vauvojen etunimien yleisyydestä (1).ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Kuvaaja%20vauvojen%20etunimien%20yleisyydest%C3%A4%20(1).ipynb)
 
-Kuvaaja vauvojen etunimien yleisyydestä.ipynb
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Kuvaaja%20vauvojen%20etunimien%20yleisyydest%C3%A4.ipynb)
-
 Open data_tieliikenneonnettomuudet.ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cms-opendata-education/HSSIP-Finland-2019/master?filepath=Open%20data_tieliikenneonnettomuudet.ipynb)
 
